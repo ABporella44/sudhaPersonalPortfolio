@@ -52,7 +52,7 @@ function CircleStat({ percent, label }) {
 
 export default function Skills() {
   const marqueeText =
-    "I'M AN EXPERIENCED WEBSITE DEVELOPER FROM NEW YORK \u2022 I'M OPEN FOR NEW PROJECTS \u2022 "
+    "I'M AN EXPERIENCED BUSINESS ANALYST \u2022 I'M OPEN FOR NEW PROJECTS \u2022 "
 
   return (
     <section className="py-20 overflow-hidden">
